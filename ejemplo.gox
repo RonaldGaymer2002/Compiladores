@@ -1,0 +1,6 @@
+// Programa de prueba en GoX
+var x int = 42;
+var y int = 10;
+var total int = x + y;
+
+print total;
